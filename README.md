@@ -70,12 +70,3 @@ src/
   index.css       # Tailwind import + base styles
 ```
 
-## Notes
-
-- **Eraser:** Uses canvas composite mode so strokes are removed (transparent), not painted white.
-- **Saved PNG:** Export composites your drawing on white so previews look consistent in any image viewer.
-- **localStorage key:** `whiteboard-snapshot-v1` — clear site data for this origin to reset the saved board.
-
-## License
-
-This project is provided as-is for learning and personal use. Add a license file if you plan to distribute or open-source it formally.
